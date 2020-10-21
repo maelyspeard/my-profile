@@ -1,0 +1,91 @@
+body {
+	background-color: #D9E4DD;
+	color: rgb(50, 50, 50); 
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+h1, h2, h3 {
+	font-family: 'PT Sans', sans-serif;
+}
+h1 {
+	color: rgb(50, 50, 50);
+	letter-spacing: 10px; 
+}
+
+h2 {
+	color: rgb(50, 50, 50);
+	font-size: 20px
+}
+a{ 
+	font-family: 'PT Sans', sans-serif;
+	text-decoration: none;
+	color: #424874; 
+	font-weight: 600
+	font-size: 16px; 
+ }
+ a:hover {
+ 	color: #F6EEDF;
+ }
+
+/* Custom design with class */
+
+
+}
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+ .box {
+ 	background-color: #D6D2C4;
+ 	border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 40px;
+    text-align: center;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0);
+
+}
+#image-circle
+{
+	border-radius: 30px;
+}
+
+.btn
+{
+	background-color: #CDC9C3;
+	color: white;
+	font-weight: regular;
+	padding: 15px;
+	border-radius: 30px;
+	text-decoration: none;
+}
+
+.btn:hover {
+	background-color:rgb(50, 50, 50);
+	color: white;
+}
+
+.list-inline { 
+	list-style: none;
+	padding-left: 0px
+ }
+
+ .list-inline li {
+ 	display: inline;
+ 	padding: 10px
+ }
+
+.box p {
+	margin-bottom: 30px;
+}
+
+.list-inline i{
+	font-size: 50px
+}
+
+
+
+
+
+
